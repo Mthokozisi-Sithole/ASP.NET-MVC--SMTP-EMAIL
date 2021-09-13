@@ -1,0 +1,302 @@
+H:\Sending-Email-using-SMTP-in-ASP.NET-MVC-5\SendingEmail\bin\SendingEmail.dll.config
+H:\Sending-Email-using-SMTP-in-ASP.NET-MVC-5\SendingEmail\bin\SendingEmail.dll
+H:\Sending-Email-using-SMTP-in-ASP.NET-MVC-5\SendingEmail\bin\SendingEmail.pdb
+H:\Sending-Email-using-SMTP-in-ASP.NET-MVC-5\SendingEmail\bin\roslyn\csc.exe
+H:\Sending-Email-using-SMTP-in-ASP.NET-MVC-5\SendingEmail\bin\roslyn\csc.exe.config
+H:\Sending-Email-using-SMTP-in-ASP.NET-MVC-5\SendingEmail\bin\roslyn\csc.rsp
+H:\Sending-Email-using-SMTP-in-ASP.NET-MVC-5\SendingEmail\bin\roslyn\csi.exe
+H:\Sending-Email-using-SMTP-in-ASP.NET-MVC-5\SendingEmail\bin\roslyn\csi.exe.config
+H:\Sending-Email-using-SMTP-in-ASP.NET-MVC-5\SendingEmail\bin\roslyn\csi.rsp
+H:\Sending-Email-using-SMTP-in-ASP.NET-MVC-5\SendingEmail\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+H:\Sending-Email-using-SMTP-in-ASP.NET-MVC-5\SendingEmail\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+H:\Sending-Email-using-SMTP-in-ASP.NET-MVC-5\SendingEmail\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+H:\Sending-Email-using-SMTP-in-ASP.NET-MVC-5\SendingEmail\bin\roslyn\Microsoft.CodeAnalysis.dll
+H:\Sending-Email-using-SMTP-in-ASP.NET-MVC-5\SendingEmail\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+H:\Sending-Email-using-SMTP-in-ASP.NET-MVC-5\SendingEmail\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+H:\Sending-Email-using-SMTP-in-ASP.NET-MVC-5\SendingEmail\bin\roslyn\Microsoft.CSharp.Core.targets
+H:\Sending-Email-using-SMTP-in-ASP.NET-MVC-5\SendingEmail\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+H:\Sending-Email-using-SMTP-in-ASP.NET-MVC-5\SendingEmail\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+H:\Sending-Email-using-SMTP-in-ASP.NET-MVC-5\SendingEmail\bin\roslyn\Microsoft.Managed.Core.targets
+H:\Sending-Email-using-SMTP-in-ASP.NET-MVC-5\SendingEmail\bin\roslyn\Microsoft.VisualBasic.Core.targets
+H:\Sending-Email-using-SMTP-in-ASP.NET-MVC-5\SendingEmail\bin\roslyn\System.AppContext.dll
+H:\Sending-Email-using-SMTP-in-ASP.NET-MVC-5\SendingEmail\bin\roslyn\System.Collections.Immutable.dll
+H:\Sending-Email-using-SMTP-in-ASP.NET-MVC-5\SendingEmail\bin\roslyn\System.Console.dll
+H:\Sending-Email-using-SMTP-in-ASP.NET-MVC-5\SendingEmail\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+H:\Sending-Email-using-SMTP-in-ASP.NET-MVC-5\SendingEmail\bin\roslyn\System.Diagnostics.StackTrace.dll
+H:\Sending-Email-using-SMTP-in-ASP.NET-MVC-5\SendingEmail\bin\roslyn\System.IO.Compression.dll
+H:\Sending-Email-using-SMTP-in-ASP.NET-MVC-5\SendingEmail\bin\roslyn\System.IO.FileSystem.dll
+H:\Sending-Email-using-SMTP-in-ASP.NET-MVC-5\SendingEmail\bin\roslyn\System.IO.FileSystem.Primitives.dll
+H:\Sending-Email-using-SMTP-in-ASP.NET-MVC-5\SendingEmail\bin\roslyn\System.IO.Pipes.AccessControl.dll
+H:\Sending-Email-using-SMTP-in-ASP.NET-MVC-5\SendingEmail\bin\roslyn\System.IO.Pipes.dll
+H:\Sending-Email-using-SMTP-in-ASP.NET-MVC-5\SendingEmail\bin\roslyn\System.Reflection.Metadata.dll
+H:\Sending-Email-using-SMTP-in-ASP.NET-MVC-5\SendingEmail\bin\roslyn\System.Security.AccessControl.dll
+H:\Sending-Email-using-SMTP-in-ASP.NET-MVC-5\SendingEmail\bin\roslyn\System.Security.Claims.dll
+H:\Sending-Email-using-SMTP-in-ASP.NET-MVC-5\SendingEmail\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+H:\Sending-Email-using-SMTP-in-ASP.NET-MVC-5\SendingEmail\bin\roslyn\System.Security.Cryptography.Encoding.dll
+H:\Sending-Email-using-SMTP-in-ASP.NET-MVC-5\SendingEmail\bin\roslyn\System.Security.Cryptography.Primitives.dll
+H:\Sending-Email-using-SMTP-in-ASP.NET-MVC-5\SendingEmail\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+H:\Sending-Email-using-SMTP-in-ASP.NET-MVC-5\SendingEmail\bin\roslyn\System.Security.Principal.Windows.dll
+H:\Sending-Email-using-SMTP-in-ASP.NET-MVC-5\SendingEmail\bin\roslyn\System.Text.Encoding.CodePages.dll
+H:\Sending-Email-using-SMTP-in-ASP.NET-MVC-5\SendingEmail\bin\roslyn\System.ValueTuple.dll
+H:\Sending-Email-using-SMTP-in-ASP.NET-MVC-5\SendingEmail\bin\roslyn\System.Xml.ReaderWriter.dll
+H:\Sending-Email-using-SMTP-in-ASP.NET-MVC-5\SendingEmail\bin\roslyn\System.Xml.XmlDocument.dll
+H:\Sending-Email-using-SMTP-in-ASP.NET-MVC-5\SendingEmail\bin\roslyn\System.Xml.XPath.dll
+H:\Sending-Email-using-SMTP-in-ASP.NET-MVC-5\SendingEmail\bin\roslyn\System.Xml.XPath.XDocument.dll
+H:\Sending-Email-using-SMTP-in-ASP.NET-MVC-5\SendingEmail\bin\roslyn\vbc.exe
+H:\Sending-Email-using-SMTP-in-ASP.NET-MVC-5\SendingEmail\bin\roslyn\vbc.exe.config
+H:\Sending-Email-using-SMTP-in-ASP.NET-MVC-5\SendingEmail\bin\roslyn\vbc.rsp
+H:\Sending-Email-using-SMTP-in-ASP.NET-MVC-5\SendingEmail\bin\roslyn\VBCSCompiler.exe
+H:\Sending-Email-using-SMTP-in-ASP.NET-MVC-5\SendingEmail\bin\roslyn\VBCSCompiler.exe.config
+H:\Sending-Email-using-SMTP-in-ASP.NET-MVC-5\SendingEmail\bin\Antlr3.Runtime.dll
+H:\Sending-Email-using-SMTP-in-ASP.NET-MVC-5\SendingEmail\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+H:\Sending-Email-using-SMTP-in-ASP.NET-MVC-5\SendingEmail\bin\Microsoft.Web.Infrastructure.dll
+H:\Sending-Email-using-SMTP-in-ASP.NET-MVC-5\SendingEmail\bin\Newtonsoft.Json.dll
+H:\Sending-Email-using-SMTP-in-ASP.NET-MVC-5\SendingEmail\bin\System.Web.Helpers.dll
+H:\Sending-Email-using-SMTP-in-ASP.NET-MVC-5\SendingEmail\bin\System.Web.Mvc.dll
+H:\Sending-Email-using-SMTP-in-ASP.NET-MVC-5\SendingEmail\bin\System.Web.Optimization.dll
+H:\Sending-Email-using-SMTP-in-ASP.NET-MVC-5\SendingEmail\bin\System.Web.Razor.dll
+H:\Sending-Email-using-SMTP-in-ASP.NET-MVC-5\SendingEmail\bin\System.Web.WebPages.Deployment.dll
+H:\Sending-Email-using-SMTP-in-ASP.NET-MVC-5\SendingEmail\bin\System.Web.WebPages.dll
+H:\Sending-Email-using-SMTP-in-ASP.NET-MVC-5\SendingEmail\bin\System.Web.WebPages.Razor.dll
+H:\Sending-Email-using-SMTP-in-ASP.NET-MVC-5\SendingEmail\bin\WebGrease.dll
+H:\Sending-Email-using-SMTP-in-ASP.NET-MVC-5\SendingEmail\bin\System.Web.Helpers.xml
+H:\Sending-Email-using-SMTP-in-ASP.NET-MVC-5\SendingEmail\bin\System.Web.Mvc.xml
+H:\Sending-Email-using-SMTP-in-ASP.NET-MVC-5\SendingEmail\bin\System.Web.Optimization.xml
+H:\Sending-Email-using-SMTP-in-ASP.NET-MVC-5\SendingEmail\bin\System.Web.Razor.xml
+H:\Sending-Email-using-SMTP-in-ASP.NET-MVC-5\SendingEmail\bin\System.Web.WebPages.xml
+H:\Sending-Email-using-SMTP-in-ASP.NET-MVC-5\SendingEmail\bin\System.Web.WebPages.Deployment.xml
+H:\Sending-Email-using-SMTP-in-ASP.NET-MVC-5\SendingEmail\bin\System.Web.WebPages.Razor.xml
+H:\Sending-Email-using-SMTP-in-ASP.NET-MVC-5\SendingEmail\bin\Newtonsoft.Json.xml
+H:\Sending-Email-using-SMTP-in-ASP.NET-MVC-5\SendingEmail\bin\Antlr3.Runtime.pdb
+H:\Sending-Email-using-SMTP-in-ASP.NET-MVC-5\SendingEmail\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+H:\Sending-Email-using-SMTP-in-ASP.NET-MVC-5\SendingEmail\obj\Debug\SendingEmail.csprojAssemblyReference.cache
+H:\Sending-Email-using-SMTP-in-ASP.NET-MVC-5\SendingEmail\obj\Debug\SendingEmail.csproj.CopyComplete
+H:\Sending-Email-using-SMTP-in-ASP.NET-MVC-5\SendingEmail\obj\Debug\SendingEmail.dll
+H:\Sending-Email-using-SMTP-in-ASP.NET-MVC-5\SendingEmail\obj\Debug\SendingEmail.pdb
+H:\Running Projects\Sending-Email-using-SMTP-in-ASP.NET-MVC-5\SendingEmail\bin\SendingEmail.dll.config
+H:\Running Projects\Sending-Email-using-SMTP-in-ASP.NET-MVC-5\SendingEmail\bin\SendingEmail.dll
+H:\Running Projects\Sending-Email-using-SMTP-in-ASP.NET-MVC-5\SendingEmail\bin\SendingEmail.pdb
+H:\Running Projects\Sending-Email-using-SMTP-in-ASP.NET-MVC-5\SendingEmail\bin\roslyn\csc.exe
+H:\Running Projects\Sending-Email-using-SMTP-in-ASP.NET-MVC-5\SendingEmail\bin\roslyn\csc.exe.config
+H:\Running Projects\Sending-Email-using-SMTP-in-ASP.NET-MVC-5\SendingEmail\bin\roslyn\csc.rsp
+H:\Running Projects\Sending-Email-using-SMTP-in-ASP.NET-MVC-5\SendingEmail\bin\roslyn\csi.exe
+H:\Running Projects\Sending-Email-using-SMTP-in-ASP.NET-MVC-5\SendingEmail\bin\roslyn\csi.exe.config
+H:\Running Projects\Sending-Email-using-SMTP-in-ASP.NET-MVC-5\SendingEmail\bin\roslyn\csi.rsp
+H:\Running Projects\Sending-Email-using-SMTP-in-ASP.NET-MVC-5\SendingEmail\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+H:\Running Projects\Sending-Email-using-SMTP-in-ASP.NET-MVC-5\SendingEmail\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+H:\Running Projects\Sending-Email-using-SMTP-in-ASP.NET-MVC-5\SendingEmail\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+H:\Running Projects\Sending-Email-using-SMTP-in-ASP.NET-MVC-5\SendingEmail\bin\roslyn\Microsoft.CodeAnalysis.dll
+H:\Running Projects\Sending-Email-using-SMTP-in-ASP.NET-MVC-5\SendingEmail\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+H:\Running Projects\Sending-Email-using-SMTP-in-ASP.NET-MVC-5\SendingEmail\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+H:\Running Projects\Sending-Email-using-SMTP-in-ASP.NET-MVC-5\SendingEmail\bin\roslyn\Microsoft.CSharp.Core.targets
+H:\Running Projects\Sending-Email-using-SMTP-in-ASP.NET-MVC-5\SendingEmail\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+H:\Running Projects\Sending-Email-using-SMTP-in-ASP.NET-MVC-5\SendingEmail\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+H:\Running Projects\Sending-Email-using-SMTP-in-ASP.NET-MVC-5\SendingEmail\bin\roslyn\Microsoft.Managed.Core.targets
+H:\Running Projects\Sending-Email-using-SMTP-in-ASP.NET-MVC-5\SendingEmail\bin\roslyn\Microsoft.VisualBasic.Core.targets
+H:\Running Projects\Sending-Email-using-SMTP-in-ASP.NET-MVC-5\SendingEmail\bin\roslyn\System.AppContext.dll
+H:\Running Projects\Sending-Email-using-SMTP-in-ASP.NET-MVC-5\SendingEmail\bin\roslyn\System.Collections.Immutable.dll
+H:\Running Projects\Sending-Email-using-SMTP-in-ASP.NET-MVC-5\SendingEmail\bin\roslyn\System.Console.dll
+H:\Running Projects\Sending-Email-using-SMTP-in-ASP.NET-MVC-5\SendingEmail\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+H:\Running Projects\Sending-Email-using-SMTP-in-ASP.NET-MVC-5\SendingEmail\bin\roslyn\System.Diagnostics.StackTrace.dll
+H:\Running Projects\Sending-Email-using-SMTP-in-ASP.NET-MVC-5\SendingEmail\bin\roslyn\System.IO.Compression.dll
+H:\Running Projects\Sending-Email-using-SMTP-in-ASP.NET-MVC-5\SendingEmail\bin\roslyn\System.IO.FileSystem.dll
+H:\Running Projects\Sending-Email-using-SMTP-in-ASP.NET-MVC-5\SendingEmail\bin\roslyn\System.IO.FileSystem.Primitives.dll
+H:\Running Projects\Sending-Email-using-SMTP-in-ASP.NET-MVC-5\SendingEmail\bin\roslyn\System.IO.Pipes.AccessControl.dll
+H:\Running Projects\Sending-Email-using-SMTP-in-ASP.NET-MVC-5\SendingEmail\bin\roslyn\System.IO.Pipes.dll
+H:\Running Projects\Sending-Email-using-SMTP-in-ASP.NET-MVC-5\SendingEmail\bin\roslyn\System.Reflection.Metadata.dll
+H:\Running Projects\Sending-Email-using-SMTP-in-ASP.NET-MVC-5\SendingEmail\bin\roslyn\System.Security.AccessControl.dll
+H:\Running Projects\Sending-Email-using-SMTP-in-ASP.NET-MVC-5\SendingEmail\bin\roslyn\System.Security.Claims.dll
+H:\Running Projects\Sending-Email-using-SMTP-in-ASP.NET-MVC-5\SendingEmail\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+H:\Running Projects\Sending-Email-using-SMTP-in-ASP.NET-MVC-5\SendingEmail\bin\roslyn\System.Security.Cryptography.Encoding.dll
+H:\Running Projects\Sending-Email-using-SMTP-in-ASP.NET-MVC-5\SendingEmail\bin\roslyn\System.Security.Cryptography.Primitives.dll
+H:\Running Projects\Sending-Email-using-SMTP-in-ASP.NET-MVC-5\SendingEmail\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+H:\Running Projects\Sending-Email-using-SMTP-in-ASP.NET-MVC-5\SendingEmail\bin\roslyn\System.Security.Principal.Windows.dll
+H:\Running Projects\Sending-Email-using-SMTP-in-ASP.NET-MVC-5\SendingEmail\bin\roslyn\System.Text.Encoding.CodePages.dll
+H:\Running Projects\Sending-Email-using-SMTP-in-ASP.NET-MVC-5\SendingEmail\bin\roslyn\System.ValueTuple.dll
+H:\Running Projects\Sending-Email-using-SMTP-in-ASP.NET-MVC-5\SendingEmail\bin\roslyn\System.Xml.ReaderWriter.dll
+H:\Running Projects\Sending-Email-using-SMTP-in-ASP.NET-MVC-5\SendingEmail\bin\roslyn\System.Xml.XmlDocument.dll
+H:\Running Projects\Sending-Email-using-SMTP-in-ASP.NET-MVC-5\SendingEmail\bin\roslyn\System.Xml.XPath.dll
+H:\Running Projects\Sending-Email-using-SMTP-in-ASP.NET-MVC-5\SendingEmail\bin\roslyn\System.Xml.XPath.XDocument.dll
+H:\Running Projects\Sending-Email-using-SMTP-in-ASP.NET-MVC-5\SendingEmail\bin\roslyn\vbc.exe
+H:\Running Projects\Sending-Email-using-SMTP-in-ASP.NET-MVC-5\SendingEmail\bin\roslyn\vbc.exe.config
+H:\Running Projects\Sending-Email-using-SMTP-in-ASP.NET-MVC-5\SendingEmail\bin\roslyn\vbc.rsp
+H:\Running Projects\Sending-Email-using-SMTP-in-ASP.NET-MVC-5\SendingEmail\bin\roslyn\VBCSCompiler.exe
+H:\Running Projects\Sending-Email-using-SMTP-in-ASP.NET-MVC-5\SendingEmail\bin\roslyn\VBCSCompiler.exe.config
+H:\Running Projects\Sending-Email-using-SMTP-in-ASP.NET-MVC-5\SendingEmail\bin\Antlr3.Runtime.dll
+H:\Running Projects\Sending-Email-using-SMTP-in-ASP.NET-MVC-5\SendingEmail\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+H:\Running Projects\Sending-Email-using-SMTP-in-ASP.NET-MVC-5\SendingEmail\bin\Microsoft.Web.Infrastructure.dll
+H:\Running Projects\Sending-Email-using-SMTP-in-ASP.NET-MVC-5\SendingEmail\bin\Newtonsoft.Json.dll
+H:\Running Projects\Sending-Email-using-SMTP-in-ASP.NET-MVC-5\SendingEmail\bin\System.Web.Helpers.dll
+H:\Running Projects\Sending-Email-using-SMTP-in-ASP.NET-MVC-5\SendingEmail\bin\System.Web.Mvc.dll
+H:\Running Projects\Sending-Email-using-SMTP-in-ASP.NET-MVC-5\SendingEmail\bin\System.Web.Optimization.dll
+H:\Running Projects\Sending-Email-using-SMTP-in-ASP.NET-MVC-5\SendingEmail\bin\System.Web.Razor.dll
+H:\Running Projects\Sending-Email-using-SMTP-in-ASP.NET-MVC-5\SendingEmail\bin\System.Web.WebPages.Deployment.dll
+H:\Running Projects\Sending-Email-using-SMTP-in-ASP.NET-MVC-5\SendingEmail\bin\System.Web.WebPages.dll
+H:\Running Projects\Sending-Email-using-SMTP-in-ASP.NET-MVC-5\SendingEmail\bin\System.Web.WebPages.Razor.dll
+H:\Running Projects\Sending-Email-using-SMTP-in-ASP.NET-MVC-5\SendingEmail\bin\WebGrease.dll
+H:\Running Projects\Sending-Email-using-SMTP-in-ASP.NET-MVC-5\SendingEmail\bin\Newtonsoft.Json.xml
+H:\Running Projects\Sending-Email-using-SMTP-in-ASP.NET-MVC-5\SendingEmail\bin\System.Web.Helpers.xml
+H:\Running Projects\Sending-Email-using-SMTP-in-ASP.NET-MVC-5\SendingEmail\bin\System.Web.Mvc.xml
+H:\Running Projects\Sending-Email-using-SMTP-in-ASP.NET-MVC-5\SendingEmail\bin\System.Web.Optimization.xml
+H:\Running Projects\Sending-Email-using-SMTP-in-ASP.NET-MVC-5\SendingEmail\bin\System.Web.Razor.xml
+H:\Running Projects\Sending-Email-using-SMTP-in-ASP.NET-MVC-5\SendingEmail\bin\System.Web.WebPages.xml
+H:\Running Projects\Sending-Email-using-SMTP-in-ASP.NET-MVC-5\SendingEmail\bin\System.Web.WebPages.Deployment.xml
+H:\Running Projects\Sending-Email-using-SMTP-in-ASP.NET-MVC-5\SendingEmail\bin\System.Web.WebPages.Razor.xml
+H:\Running Projects\Sending-Email-using-SMTP-in-ASP.NET-MVC-5\SendingEmail\bin\Antlr3.Runtime.pdb
+H:\Running Projects\Sending-Email-using-SMTP-in-ASP.NET-MVC-5\SendingEmail\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+H:\Running Projects\Sending-Email-using-SMTP-in-ASP.NET-MVC-5\SendingEmail\obj\Debug\SendingEmail.csprojAssemblyReference.cache
+H:\Running Projects\Sending-Email-using-SMTP-in-ASP.NET-MVC-5\SendingEmail\obj\Debug\SendingEmail.csproj.CopyComplete
+H:\Running Projects\Sending-Email-using-SMTP-in-ASP.NET-MVC-5\SendingEmail\obj\Debug\SendingEmail.dll
+H:\Running Projects\Sending-Email-using-SMTP-in-ASP.NET-MVC-5\SendingEmail\obj\Debug\SendingEmail.pdb
+C:\Users\PRPC-05\Desktop\Instant\Sending-Email-using-SMTP-in-ASP.NET-MVC-5\SendingEmail\bin\SendingEmail.dll.config
+C:\Users\PRPC-05\Desktop\Instant\Sending-Email-using-SMTP-in-ASP.NET-MVC-5\SendingEmail\bin\SendingEmail.dll
+C:\Users\PRPC-05\Desktop\Instant\Sending-Email-using-SMTP-in-ASP.NET-MVC-5\SendingEmail\bin\SendingEmail.pdb
+C:\Users\PRPC-05\Desktop\Instant\Sending-Email-using-SMTP-in-ASP.NET-MVC-5\SendingEmail\bin\roslyn\csc.exe
+C:\Users\PRPC-05\Desktop\Instant\Sending-Email-using-SMTP-in-ASP.NET-MVC-5\SendingEmail\bin\roslyn\csc.exe.config
+C:\Users\PRPC-05\Desktop\Instant\Sending-Email-using-SMTP-in-ASP.NET-MVC-5\SendingEmail\bin\roslyn\csc.rsp
+C:\Users\PRPC-05\Desktop\Instant\Sending-Email-using-SMTP-in-ASP.NET-MVC-5\SendingEmail\bin\roslyn\csi.exe
+C:\Users\PRPC-05\Desktop\Instant\Sending-Email-using-SMTP-in-ASP.NET-MVC-5\SendingEmail\bin\roslyn\csi.exe.config
+C:\Users\PRPC-05\Desktop\Instant\Sending-Email-using-SMTP-in-ASP.NET-MVC-5\SendingEmail\bin\roslyn\csi.rsp
+C:\Users\PRPC-05\Desktop\Instant\Sending-Email-using-SMTP-in-ASP.NET-MVC-5\SendingEmail\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\PRPC-05\Desktop\Instant\Sending-Email-using-SMTP-in-ASP.NET-MVC-5\SendingEmail\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\PRPC-05\Desktop\Instant\Sending-Email-using-SMTP-in-ASP.NET-MVC-5\SendingEmail\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\PRPC-05\Desktop\Instant\Sending-Email-using-SMTP-in-ASP.NET-MVC-5\SendingEmail\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\PRPC-05\Desktop\Instant\Sending-Email-using-SMTP-in-ASP.NET-MVC-5\SendingEmail\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\PRPC-05\Desktop\Instant\Sending-Email-using-SMTP-in-ASP.NET-MVC-5\SendingEmail\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\PRPC-05\Desktop\Instant\Sending-Email-using-SMTP-in-ASP.NET-MVC-5\SendingEmail\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\PRPC-05\Desktop\Instant\Sending-Email-using-SMTP-in-ASP.NET-MVC-5\SendingEmail\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\PRPC-05\Desktop\Instant\Sending-Email-using-SMTP-in-ASP.NET-MVC-5\SendingEmail\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\PRPC-05\Desktop\Instant\Sending-Email-using-SMTP-in-ASP.NET-MVC-5\SendingEmail\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\PRPC-05\Desktop\Instant\Sending-Email-using-SMTP-in-ASP.NET-MVC-5\SendingEmail\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\PRPC-05\Desktop\Instant\Sending-Email-using-SMTP-in-ASP.NET-MVC-5\SendingEmail\bin\roslyn\System.AppContext.dll
+C:\Users\PRPC-05\Desktop\Instant\Sending-Email-using-SMTP-in-ASP.NET-MVC-5\SendingEmail\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\PRPC-05\Desktop\Instant\Sending-Email-using-SMTP-in-ASP.NET-MVC-5\SendingEmail\bin\roslyn\System.Console.dll
+C:\Users\PRPC-05\Desktop\Instant\Sending-Email-using-SMTP-in-ASP.NET-MVC-5\SendingEmail\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\PRPC-05\Desktop\Instant\Sending-Email-using-SMTP-in-ASP.NET-MVC-5\SendingEmail\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\PRPC-05\Desktop\Instant\Sending-Email-using-SMTP-in-ASP.NET-MVC-5\SendingEmail\bin\roslyn\System.IO.Compression.dll
+C:\Users\PRPC-05\Desktop\Instant\Sending-Email-using-SMTP-in-ASP.NET-MVC-5\SendingEmail\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\PRPC-05\Desktop\Instant\Sending-Email-using-SMTP-in-ASP.NET-MVC-5\SendingEmail\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\PRPC-05\Desktop\Instant\Sending-Email-using-SMTP-in-ASP.NET-MVC-5\SendingEmail\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\PRPC-05\Desktop\Instant\Sending-Email-using-SMTP-in-ASP.NET-MVC-5\SendingEmail\bin\roslyn\System.IO.Pipes.dll
+C:\Users\PRPC-05\Desktop\Instant\Sending-Email-using-SMTP-in-ASP.NET-MVC-5\SendingEmail\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\PRPC-05\Desktop\Instant\Sending-Email-using-SMTP-in-ASP.NET-MVC-5\SendingEmail\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\PRPC-05\Desktop\Instant\Sending-Email-using-SMTP-in-ASP.NET-MVC-5\SendingEmail\bin\roslyn\System.Security.Claims.dll
+C:\Users\PRPC-05\Desktop\Instant\Sending-Email-using-SMTP-in-ASP.NET-MVC-5\SendingEmail\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\PRPC-05\Desktop\Instant\Sending-Email-using-SMTP-in-ASP.NET-MVC-5\SendingEmail\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\PRPC-05\Desktop\Instant\Sending-Email-using-SMTP-in-ASP.NET-MVC-5\SendingEmail\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\PRPC-05\Desktop\Instant\Sending-Email-using-SMTP-in-ASP.NET-MVC-5\SendingEmail\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\PRPC-05\Desktop\Instant\Sending-Email-using-SMTP-in-ASP.NET-MVC-5\SendingEmail\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\PRPC-05\Desktop\Instant\Sending-Email-using-SMTP-in-ASP.NET-MVC-5\SendingEmail\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\PRPC-05\Desktop\Instant\Sending-Email-using-SMTP-in-ASP.NET-MVC-5\SendingEmail\bin\roslyn\System.ValueTuple.dll
+C:\Users\PRPC-05\Desktop\Instant\Sending-Email-using-SMTP-in-ASP.NET-MVC-5\SendingEmail\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\PRPC-05\Desktop\Instant\Sending-Email-using-SMTP-in-ASP.NET-MVC-5\SendingEmail\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\PRPC-05\Desktop\Instant\Sending-Email-using-SMTP-in-ASP.NET-MVC-5\SendingEmail\bin\roslyn\System.Xml.XPath.dll
+C:\Users\PRPC-05\Desktop\Instant\Sending-Email-using-SMTP-in-ASP.NET-MVC-5\SendingEmail\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\PRPC-05\Desktop\Instant\Sending-Email-using-SMTP-in-ASP.NET-MVC-5\SendingEmail\bin\roslyn\vbc.exe
+C:\Users\PRPC-05\Desktop\Instant\Sending-Email-using-SMTP-in-ASP.NET-MVC-5\SendingEmail\bin\roslyn\vbc.exe.config
+C:\Users\PRPC-05\Desktop\Instant\Sending-Email-using-SMTP-in-ASP.NET-MVC-5\SendingEmail\bin\roslyn\vbc.rsp
+C:\Users\PRPC-05\Desktop\Instant\Sending-Email-using-SMTP-in-ASP.NET-MVC-5\SendingEmail\bin\roslyn\VBCSCompiler.exe
+C:\Users\PRPC-05\Desktop\Instant\Sending-Email-using-SMTP-in-ASP.NET-MVC-5\SendingEmail\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\PRPC-05\Desktop\Instant\Sending-Email-using-SMTP-in-ASP.NET-MVC-5\SendingEmail\bin\Antlr3.Runtime.dll
+C:\Users\PRPC-05\Desktop\Instant\Sending-Email-using-SMTP-in-ASP.NET-MVC-5\SendingEmail\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\PRPC-05\Desktop\Instant\Sending-Email-using-SMTP-in-ASP.NET-MVC-5\SendingEmail\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\PRPC-05\Desktop\Instant\Sending-Email-using-SMTP-in-ASP.NET-MVC-5\SendingEmail\bin\Newtonsoft.Json.dll
+C:\Users\PRPC-05\Desktop\Instant\Sending-Email-using-SMTP-in-ASP.NET-MVC-5\SendingEmail\bin\System.Web.Helpers.dll
+C:\Users\PRPC-05\Desktop\Instant\Sending-Email-using-SMTP-in-ASP.NET-MVC-5\SendingEmail\bin\System.Web.Mvc.dll
+C:\Users\PRPC-05\Desktop\Instant\Sending-Email-using-SMTP-in-ASP.NET-MVC-5\SendingEmail\bin\System.Web.Optimization.dll
+C:\Users\PRPC-05\Desktop\Instant\Sending-Email-using-SMTP-in-ASP.NET-MVC-5\SendingEmail\bin\System.Web.Razor.dll
+C:\Users\PRPC-05\Desktop\Instant\Sending-Email-using-SMTP-in-ASP.NET-MVC-5\SendingEmail\bin\System.Web.WebPages.Deployment.dll
+C:\Users\PRPC-05\Desktop\Instant\Sending-Email-using-SMTP-in-ASP.NET-MVC-5\SendingEmail\bin\System.Web.WebPages.dll
+C:\Users\PRPC-05\Desktop\Instant\Sending-Email-using-SMTP-in-ASP.NET-MVC-5\SendingEmail\bin\System.Web.WebPages.Razor.dll
+C:\Users\PRPC-05\Desktop\Instant\Sending-Email-using-SMTP-in-ASP.NET-MVC-5\SendingEmail\bin\WebGrease.dll
+C:\Users\PRPC-05\Desktop\Instant\Sending-Email-using-SMTP-in-ASP.NET-MVC-5\SendingEmail\bin\Newtonsoft.Json.xml
+C:\Users\PRPC-05\Desktop\Instant\Sending-Email-using-SMTP-in-ASP.NET-MVC-5\SendingEmail\bin\System.Web.Helpers.xml
+C:\Users\PRPC-05\Desktop\Instant\Sending-Email-using-SMTP-in-ASP.NET-MVC-5\SendingEmail\bin\System.Web.Mvc.xml
+C:\Users\PRPC-05\Desktop\Instant\Sending-Email-using-SMTP-in-ASP.NET-MVC-5\SendingEmail\bin\System.Web.Optimization.xml
+C:\Users\PRPC-05\Desktop\Instant\Sending-Email-using-SMTP-in-ASP.NET-MVC-5\SendingEmail\bin\System.Web.Razor.xml
+C:\Users\PRPC-05\Desktop\Instant\Sending-Email-using-SMTP-in-ASP.NET-MVC-5\SendingEmail\bin\System.Web.WebPages.xml
+C:\Users\PRPC-05\Desktop\Instant\Sending-Email-using-SMTP-in-ASP.NET-MVC-5\SendingEmail\bin\System.Web.WebPages.Deployment.xml
+C:\Users\PRPC-05\Desktop\Instant\Sending-Email-using-SMTP-in-ASP.NET-MVC-5\SendingEmail\bin\System.Web.WebPages.Razor.xml
+C:\Users\PRPC-05\Desktop\Instant\Sending-Email-using-SMTP-in-ASP.NET-MVC-5\SendingEmail\bin\Antlr3.Runtime.pdb
+C:\Users\PRPC-05\Desktop\Instant\Sending-Email-using-SMTP-in-ASP.NET-MVC-5\SendingEmail\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\PRPC-05\Desktop\Instant\Sending-Email-using-SMTP-in-ASP.NET-MVC-5\SendingEmail\obj\Debug\SendingEmail.csprojAssemblyReference.cache
+C:\Users\PRPC-05\Desktop\Instant\Sending-Email-using-SMTP-in-ASP.NET-MVC-5\SendingEmail\obj\Debug\SendingEmail.csproj.CopyComplete
+C:\Users\PRPC-05\Desktop\Instant\Sending-Email-using-SMTP-in-ASP.NET-MVC-5\SendingEmail\obj\Debug\SendingEmail.dll
+C:\Users\PRPC-05\Desktop\Instant\Sending-Email-using-SMTP-in-ASP.NET-MVC-5\SendingEmail\obj\Debug\SendingEmail.pdb
+C:\Users\PRPC-05\Desktop\Instant\Sending-Email-using-SMTP-in-ASP.NET-MVC-5\SendingEmail\obj\Debug\SendingEmail.csproj.CoreCompileInputs.cache
+C:\Users\DevOps\Documents\Sending-Email-using-SMTP-in-ASP.NET-MVC-5-master\SendingEmail\bin\SendingEmail.dll.config
+C:\Users\DevOps\Documents\Sending-Email-using-SMTP-in-ASP.NET-MVC-5-master\SendingEmail\bin\SendingEmail.dll
+C:\Users\DevOps\Documents\Sending-Email-using-SMTP-in-ASP.NET-MVC-5-master\SendingEmail\bin\SendingEmail.pdb
+C:\Users\DevOps\Documents\Sending-Email-using-SMTP-in-ASP.NET-MVC-5-master\SendingEmail\bin\roslyn\csc.exe
+C:\Users\DevOps\Documents\Sending-Email-using-SMTP-in-ASP.NET-MVC-5-master\SendingEmail\bin\roslyn\csc.exe.config
+C:\Users\DevOps\Documents\Sending-Email-using-SMTP-in-ASP.NET-MVC-5-master\SendingEmail\bin\roslyn\csc.rsp
+C:\Users\DevOps\Documents\Sending-Email-using-SMTP-in-ASP.NET-MVC-5-master\SendingEmail\bin\roslyn\csi.exe
+C:\Users\DevOps\Documents\Sending-Email-using-SMTP-in-ASP.NET-MVC-5-master\SendingEmail\bin\roslyn\csi.exe.config
+C:\Users\DevOps\Documents\Sending-Email-using-SMTP-in-ASP.NET-MVC-5-master\SendingEmail\bin\roslyn\csi.rsp
+C:\Users\DevOps\Documents\Sending-Email-using-SMTP-in-ASP.NET-MVC-5-master\SendingEmail\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\DevOps\Documents\Sending-Email-using-SMTP-in-ASP.NET-MVC-5-master\SendingEmail\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\DevOps\Documents\Sending-Email-using-SMTP-in-ASP.NET-MVC-5-master\SendingEmail\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\DevOps\Documents\Sending-Email-using-SMTP-in-ASP.NET-MVC-5-master\SendingEmail\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\DevOps\Documents\Sending-Email-using-SMTP-in-ASP.NET-MVC-5-master\SendingEmail\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\DevOps\Documents\Sending-Email-using-SMTP-in-ASP.NET-MVC-5-master\SendingEmail\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\DevOps\Documents\Sending-Email-using-SMTP-in-ASP.NET-MVC-5-master\SendingEmail\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\DevOps\Documents\Sending-Email-using-SMTP-in-ASP.NET-MVC-5-master\SendingEmail\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\DevOps\Documents\Sending-Email-using-SMTP-in-ASP.NET-MVC-5-master\SendingEmail\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\DevOps\Documents\Sending-Email-using-SMTP-in-ASP.NET-MVC-5-master\SendingEmail\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\DevOps\Documents\Sending-Email-using-SMTP-in-ASP.NET-MVC-5-master\SendingEmail\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\DevOps\Documents\Sending-Email-using-SMTP-in-ASP.NET-MVC-5-master\SendingEmail\bin\roslyn\System.AppContext.dll
+C:\Users\DevOps\Documents\Sending-Email-using-SMTP-in-ASP.NET-MVC-5-master\SendingEmail\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\DevOps\Documents\Sending-Email-using-SMTP-in-ASP.NET-MVC-5-master\SendingEmail\bin\roslyn\System.Console.dll
+C:\Users\DevOps\Documents\Sending-Email-using-SMTP-in-ASP.NET-MVC-5-master\SendingEmail\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\DevOps\Documents\Sending-Email-using-SMTP-in-ASP.NET-MVC-5-master\SendingEmail\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\DevOps\Documents\Sending-Email-using-SMTP-in-ASP.NET-MVC-5-master\SendingEmail\bin\roslyn\System.IO.Compression.dll
+C:\Users\DevOps\Documents\Sending-Email-using-SMTP-in-ASP.NET-MVC-5-master\SendingEmail\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\DevOps\Documents\Sending-Email-using-SMTP-in-ASP.NET-MVC-5-master\SendingEmail\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\DevOps\Documents\Sending-Email-using-SMTP-in-ASP.NET-MVC-5-master\SendingEmail\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\DevOps\Documents\Sending-Email-using-SMTP-in-ASP.NET-MVC-5-master\SendingEmail\bin\roslyn\System.IO.Pipes.dll
+C:\Users\DevOps\Documents\Sending-Email-using-SMTP-in-ASP.NET-MVC-5-master\SendingEmail\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\DevOps\Documents\Sending-Email-using-SMTP-in-ASP.NET-MVC-5-master\SendingEmail\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\DevOps\Documents\Sending-Email-using-SMTP-in-ASP.NET-MVC-5-master\SendingEmail\bin\roslyn\System.Security.Claims.dll
+C:\Users\DevOps\Documents\Sending-Email-using-SMTP-in-ASP.NET-MVC-5-master\SendingEmail\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\DevOps\Documents\Sending-Email-using-SMTP-in-ASP.NET-MVC-5-master\SendingEmail\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\DevOps\Documents\Sending-Email-using-SMTP-in-ASP.NET-MVC-5-master\SendingEmail\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\DevOps\Documents\Sending-Email-using-SMTP-in-ASP.NET-MVC-5-master\SendingEmail\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\DevOps\Documents\Sending-Email-using-SMTP-in-ASP.NET-MVC-5-master\SendingEmail\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\DevOps\Documents\Sending-Email-using-SMTP-in-ASP.NET-MVC-5-master\SendingEmail\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\DevOps\Documents\Sending-Email-using-SMTP-in-ASP.NET-MVC-5-master\SendingEmail\bin\roslyn\System.ValueTuple.dll
+C:\Users\DevOps\Documents\Sending-Email-using-SMTP-in-ASP.NET-MVC-5-master\SendingEmail\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\DevOps\Documents\Sending-Email-using-SMTP-in-ASP.NET-MVC-5-master\SendingEmail\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\DevOps\Documents\Sending-Email-using-SMTP-in-ASP.NET-MVC-5-master\SendingEmail\bin\roslyn\System.Xml.XPath.dll
+C:\Users\DevOps\Documents\Sending-Email-using-SMTP-in-ASP.NET-MVC-5-master\SendingEmail\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\DevOps\Documents\Sending-Email-using-SMTP-in-ASP.NET-MVC-5-master\SendingEmail\bin\roslyn\vbc.exe
+C:\Users\DevOps\Documents\Sending-Email-using-SMTP-in-ASP.NET-MVC-5-master\SendingEmail\bin\roslyn\vbc.exe.config
+C:\Users\DevOps\Documents\Sending-Email-using-SMTP-in-ASP.NET-MVC-5-master\SendingEmail\bin\roslyn\vbc.rsp
+C:\Users\DevOps\Documents\Sending-Email-using-SMTP-in-ASP.NET-MVC-5-master\SendingEmail\bin\roslyn\VBCSCompiler.exe
+C:\Users\DevOps\Documents\Sending-Email-using-SMTP-in-ASP.NET-MVC-5-master\SendingEmail\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\DevOps\Documents\Sending-Email-using-SMTP-in-ASP.NET-MVC-5-master\SendingEmail\bin\Antlr3.Runtime.dll
+C:\Users\DevOps\Documents\Sending-Email-using-SMTP-in-ASP.NET-MVC-5-master\SendingEmail\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\DevOps\Documents\Sending-Email-using-SMTP-in-ASP.NET-MVC-5-master\SendingEmail\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\DevOps\Documents\Sending-Email-using-SMTP-in-ASP.NET-MVC-5-master\SendingEmail\bin\Newtonsoft.Json.dll
+C:\Users\DevOps\Documents\Sending-Email-using-SMTP-in-ASP.NET-MVC-5-master\SendingEmail\bin\System.Web.Helpers.dll
+C:\Users\DevOps\Documents\Sending-Email-using-SMTP-in-ASP.NET-MVC-5-master\SendingEmail\bin\System.Web.Mvc.dll
+C:\Users\DevOps\Documents\Sending-Email-using-SMTP-in-ASP.NET-MVC-5-master\SendingEmail\bin\System.Web.Optimization.dll
+C:\Users\DevOps\Documents\Sending-Email-using-SMTP-in-ASP.NET-MVC-5-master\SendingEmail\bin\System.Web.Razor.dll
+C:\Users\DevOps\Documents\Sending-Email-using-SMTP-in-ASP.NET-MVC-5-master\SendingEmail\bin\System.Web.WebPages.Deployment.dll
+C:\Users\DevOps\Documents\Sending-Email-using-SMTP-in-ASP.NET-MVC-5-master\SendingEmail\bin\System.Web.WebPages.dll
+C:\Users\DevOps\Documents\Sending-Email-using-SMTP-in-ASP.NET-MVC-5-master\SendingEmail\bin\System.Web.WebPages.Razor.dll
+C:\Users\DevOps\Documents\Sending-Email-using-SMTP-in-ASP.NET-MVC-5-master\SendingEmail\bin\WebGrease.dll
+C:\Users\DevOps\Documents\Sending-Email-using-SMTP-in-ASP.NET-MVC-5-master\SendingEmail\bin\Newtonsoft.Json.xml
+C:\Users\DevOps\Documents\Sending-Email-using-SMTP-in-ASP.NET-MVC-5-master\SendingEmail\bin\System.Web.Helpers.xml
+C:\Users\DevOps\Documents\Sending-Email-using-SMTP-in-ASP.NET-MVC-5-master\SendingEmail\bin\System.Web.Mvc.xml
+C:\Users\DevOps\Documents\Sending-Email-using-SMTP-in-ASP.NET-MVC-5-master\SendingEmail\bin\System.Web.Optimization.xml
+C:\Users\DevOps\Documents\Sending-Email-using-SMTP-in-ASP.NET-MVC-5-master\SendingEmail\bin\System.Web.Razor.xml
+C:\Users\DevOps\Documents\Sending-Email-using-SMTP-in-ASP.NET-MVC-5-master\SendingEmail\bin\System.Web.WebPages.xml
+C:\Users\DevOps\Documents\Sending-Email-using-SMTP-in-ASP.NET-MVC-5-master\SendingEmail\bin\System.Web.WebPages.Deployment.xml
+C:\Users\DevOps\Documents\Sending-Email-using-SMTP-in-ASP.NET-MVC-5-master\SendingEmail\bin\System.Web.WebPages.Razor.xml
+C:\Users\DevOps\Documents\Sending-Email-using-SMTP-in-ASP.NET-MVC-5-master\SendingEmail\bin\Antlr3.Runtime.pdb
+C:\Users\DevOps\Documents\Sending-Email-using-SMTP-in-ASP.NET-MVC-5-master\SendingEmail\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\DevOps\Documents\Sending-Email-using-SMTP-in-ASP.NET-MVC-5-master\SendingEmail\obj\Debug\SendingEmail.csproj.AssemblyReference.cache
+C:\Users\DevOps\Documents\Sending-Email-using-SMTP-in-ASP.NET-MVC-5-master\SendingEmail\obj\Debug\SendingEmail.csproj.CoreCompileInputs.cache
+C:\Users\DevOps\Documents\Sending-Email-using-SMTP-in-ASP.NET-MVC-5-master\SendingEmail\obj\Debug\SendingEmail.csproj.CopyComplete
+C:\Users\DevOps\Documents\Sending-Email-using-SMTP-in-ASP.NET-MVC-5-master\SendingEmail\obj\Debug\SendingEmail.dll
+C:\Users\DevOps\Documents\Sending-Email-using-SMTP-in-ASP.NET-MVC-5-master\SendingEmail\obj\Debug\SendingEmail.pdb
